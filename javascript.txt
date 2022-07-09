@@ -1,0 +1,201 @@
+1 . what is constructor ?
+
+ans :- A constructor is a special function that creates and initializes an object instance of a class. 
+ 
+hindi :- एक कंस्ट्रक्टर एक विशेष फ़ंक्शन है जो किसी वर्ग के ऑब्जेक्ट इंस्टेंस को बनाता और आरंभ करता है।
+
+
+
+2. what is prototype ?
+
+ans:- The prototype is an object that is associated with every functions and objects by default in JavaScript,
+
+hindi:- प्रोटोटाइप एक ऐसी वस्तु है जो जावास्क्रिप्ट में डिफ़ॉल्ट रूप से हर फ़ंक्शन और ऑब्जेक्ट से जुड़ी होती है,
+
+
+
+3. what is function ?
+
+ans :- A function is a block of code and function is a group of statement that performs a specific task. 
+
+hindi :- फ़ंक्शन कोड का एक ब्लॉक है और फ़ंक्शन कथन का एक समूह है जो एक विशिष्ट कार्य करता है।
+
+
+
+4. what is self invoking function ?
+
+ans:- In JavaScript, a “Self-Invoking” function is a type of function 
+    that is invoked or called automatically after its definition.
+
+hindi:- जावास्क्रिप्ट में, "सेल्फ-इनवोकिंग" फ़ंक्शन एक प्रकार का फ़ंक्शन है
+    जिसे इसकी परिभाषा के बाद स्वचालित रूप से बुलाया या बुलाया जाता है।
+
+
+
+5. what is Arrow function ? 
+
+ans:- Arrow function is one of the features introduced in the ES6 version of JavaScript. 
+    It allows you to create functions in a cleaner way compared to regular functions.
+
+hindi :- एरो फ़ंक्शन जावास्क्रिप्ट के ES6 संस्करण में पेश की गई सुविधाओं में से एक है। 
+    यह आपको नियमित कार्यों की तुलना में अधिक स्वच्छ तरीके से फ़ंक्शन बनाने की अनुमति देता है।
+
+
+6. what is scope in js ?
+
+ans:- Scope in JavaScript refers to the current context of code, 
+    which determines the accessibility of variables to JavaScript. 
+    The two types of scope are local and global: Global variables are those declared outside of a block. 
+    Local variables are those declared inside of a block.
+
+hindi:- जावास्क्रिप्ट में स्कोप कोड के वर्तमान संदर्भ को संदर्भित करता है,
+    जो जावास्क्रिप्ट के लिए चर की पहुंच को निर्धारित करता है।
+    दो प्रकार के दायरे स्थानीय और वैश्विक हैं: वैश्विक चर वे हैं जो एक ब्लॉक के बाहर घोषित किए जाते हैं।
+    स्थानीय चर वे हैं जो एक ब्लॉक के अंदर घोषित किए जाते हैं।
+
+    Scope determines the accessibility of variables, objects, and functions from different parts of the code. 
+
+hindi:- स्कोप कोड के विभिन्न हिस्सों से चर, वस्तुओं और कार्यों की पहुंच निर्धारित करता है।
+    स्वचालित रूप से वैश्विक।
+
+
+7. what is classes ?
+
+ans :- Classes are a template for creating objects.
+
+hindi :- कक्षाएं वस्तुओं को बनाने के लिए एक टेम्पलेट हैं।
+
+
+8. what is async function ?
+
+ans:- Async functions are a combination of promises and generators, and basically, 
+    they are a higher level abstraction over promises. 
+
+
+hindi:- Async फ़ंक्शन वादों और जनरेटर का एक संयोजन है, और मूल रूप से, वे वादों पर एक उच्च स्तरीय अमूर्तता हैं।
+
+
+
+9. what is callback function ?
+
+ans :- A JavaScript callback is a function which is to be executed after another function has finished execution.
+
+hindi:-  एक जावास्क्रिप्ट कॉलबैक एक फ़ंक्शन है जिसे किसी अन्य फ़ंक्शन के निष्पादन समाप्त होने के बाद निष्पादित किया जाना है।
+
+    Any function that is passed as an argument to another function 
+    so that it can be executed in that other function is called as a callback function.
+
+hindi :- कोई भी फ़ंक्शन जो किसी अन्य फ़ंक्शन के तर्क के रूप में पारित किया जाता है
+    ताकि इसे उस अन्य फ़ंक्शन में निष्पादित किया जा सके जिसे कॉलबैक फ़ंक्शन कहा जाता है।
+
+
+
+10. what is settimeout ? 
+  
+ans :- The global setTimeout() method sets a timer which executes 
+    a function or specified piece of code once the timer expires.
+
+hindi :- वैश्विक सेटटाइमआउट () विधि एक टाइमर सेट करती है जो टाइमर समाप्त होने के बाद एक फ़ंक्शन या कोड के निर्दिष्ट टुकड़े को निष्पादित करता है।
+
+
+
+11. what is  cleartimeout method ?
+
+ans :-  The clearTimeout() function in javascript clears the timeout which has been set by 
+    setTimeout()function before that.
+
+hindi :- जावास्क्रिप्ट में clearTimeout () फ़ंक्शन उस टाइमआउट को साफ़ करता है जो इससे पहले setTimeout () फ़ंक्शन द्वारा सेट किया गया है।
+
+
+
+12. what is setinterval ?
+
+ans :- The setInterval() method calls a function at specified intervals (in milliseconds). 
+    The setInterval() method continues calling the function until clearInterval ...
+
+hindi :- सेटइंटरवल () विधि निर्दिष्ट अंतराल (मिलीसेकंड में) पर एक फ़ंक्शन को कॉल करती है। सेटइंटरवल () 
+    विधि स्पष्ट अंतराल तक फ़ंक्शन को कॉल करना जारी रखती है ...
+
+
+13. what is clearinterval ?
+
+ans :- The clearInterval() function in javascript clears the interval which has been set by 
+    setInterval() function before that. 
+
+hindi :- जावास्क्रिप्ट में clearInterval () फ़ंक्शन उस अंतराल को साफ़ करता है जो इससे पहले setInterval () फ़ंक्शन द्वारा सेट किया गया है।
+
+
+14. what is promises ? 
+
+ans :- The Promise object represents the eventual completion (or failure) of an asynchronous operation 
+    and its resulting value.
+
+hindi :- प्रॉमिस ऑब्जेक्ट एक एसिंक्रोनस ऑपरेशन के अंतिम समापन (या विफलता) और उसके परिणामी मूल्य का प्रतिनिधित्व करता है
+
+        A promise is a special JavaScript object that links the “producing code” and 
+        the “consuming code” together. In terms of our analogy: this is ...
+
+
+        एक वादा एक विशेष जावास्क्रिप्ट ऑब्जेक्ट है जो "उत्पादक कोड" और "उपभोग कोड" को एक साथ जोड़ता है। हमारे सादृश्य के संदर्भ में: यह है ...
+
+
+
+15. what is rest parameter ?
+
+ans:- The rest parameter allows to represent an indefinite number of arguments as an array.
+
+hindi :- बाकी पैरामीटर एक सरणी के रूप में तर्कों की अनिश्चित संख्या का प्रतिनिधित्व करने की अनुमति देता है।
+
+
+
+16. what is spread operators ? 
+
+ans :- The JavaScript spread operator ( ... ) allows us to quickly copy all or part of 
+    an existing array or object into another array or object.
+
+hindi :- जावास्क्रिप्ट स्प्रेड ऑपरेटर (...) हमें किसी मौजूदा सरणी या ऑब्जेक्ट के सभी या भाग को किसी अन्य सरणी या 
+    ऑब्जेक्ट में तुरंत कॉपी करने की अनुमति देता है। 
+
+
+
+17.what is destructuring ?
+
+ans :- The destructuring assignment syntax is a JavaScript expression that makes  
+    it possible to unpack values from arrays, or properties from objects, into distinct variables.
+
+
+hindi :- डिस्ट्रक्टिंग असाइनमेंट सिंटैक्स एक जावास्क्रिप्ट एक्सप्रेशन है जो सरणियों से मूल्यों, 
+    या वस्तुओं से गुणों को अलग-अलग चर में अनपैक करना संभव बनाता है।
+
+
+18. what is javascript ?
+
+ans:- JavaScript is a scripting language that enables you to create dynamically updating content, 
+    control multimedia, animate images etc..
+
+
+hindi:- जावास्क्रिप्ट एक स्क्रिप्टिंग भाषा है जो आपको गतिशील रूप से अद्यतन सामग्री बनाने, मल्टीमीडिया को नियंत्रित करने, 
+    छवियों को चेतन करने आदि में सक्षम बनाती है।
+
+
+19. what is function declaration ?
+
+ans:- The function declaration (function statement) defines a function with the specified parameters. 
+    You can also define functions using the Function constructor and a function expression.
+
+
+hindi:- फ़ंक्शन डिक्लेरेशन (फ़ंक्शन स्टेटमेंट) निर्दिष्ट मापदंडों के साथ एक फ़ंक्शन को परिभाषित करता है। 
+    आप फ़ंक्शन कंस्ट्रक्टर और फ़ंक्शन एक्सप्रेशन का उपयोग करके फ़ंक्शन को भी परिभाषित कर सकते हैं।
+
+
+Q.20 what is function expression ?
+
+ans:- Function Expression allows us to create an anonymous function which doesn't have any function name 
+      which is the main difference between Function Expression and Function Declaration. 
+      A function expression can be used as an IIFE (Immediately Invoked Function Expression)which runs as soon as it is defined.
+
+
+hindi :- फंक्शन एक्सप्रेशन हमें एक अनाम फंक्शन बनाने की अनुमति देता है जिसमें कोई फंक्शन नाम नहीं होता है 
+      जो फंक्शन एक्सप्रेशन और फंक्शन डिक्लेरेशन के बीच मुख्य अंतर है। 
+      फ़ंक्शन एक्सप्रेशन का उपयोग IIFE (तत्काल इनवोक्ड फंक्शन एक्सप्रेशन) के रूप में किया जा सकता है जो परिभाषित होते ही चलता है।
+
